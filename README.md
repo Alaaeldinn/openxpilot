@@ -8,4 +8,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Alaaeldinn/openCoPilot.git
+   git clone https://github.com/Alaaeldinn/openxPilot.git
